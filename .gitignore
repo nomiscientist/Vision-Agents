@@ -56,15 +56,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.env
-.env.local
 .env.*.local
 .env.bak
 pyvenv.cfg
 .python-version
 
 # Editors / IDEs
-.vscode/
 .idea/
 
 # Jupyter Notebook
@@ -88,3 +85,5 @@ stream-py/
 profile.html
 
 /opencode.json
+config.bat
+node_modules
